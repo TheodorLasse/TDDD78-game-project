@@ -1,0 +1,7 @@
+{
+  "score" : 100,
+  "health" : 100,
+  "speed" : 40,
+  "attackRange" : 50,
+  "scaling" : 5
+}

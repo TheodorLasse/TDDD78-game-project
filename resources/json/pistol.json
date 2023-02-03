@@ -1,0 +1,9 @@
+{
+  "speed" : 1000,
+  "damage" : 5,
+  "reloadTime" : 1,
+  "cooldownTime" : 0.75,
+  "maxAmmo" : 4,
+  "bulletOffsetX" : [18, 28, 48, 44, 34, 0, 0, 0],
+  "bulletOffsetY" : [62, 50, 22, 8, 0, 9, 30, 52]
+}
